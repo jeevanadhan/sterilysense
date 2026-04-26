@@ -1,0 +1,170 @@
+{
+  "Lactobacillus": {
+    "type": "Good",
+    "family": "Lactobacillaceae",
+    "transmission": "Food / Probiotics",
+    "diseases": "None",
+    "solution": "Supports gut health",
+    "harmful_percent": 5
+  },
+  "Lactobacillus acidophilus": {
+    "type": "Good",
+    "family": "Lactobacillaceae",
+    "transmission": "Dairy products",
+    "diseases": "None",
+    "solution": "Improves digestion",
+    "harmful_percent": 5
+  },
+  "Lactobacillus casei": {
+    "type": "Good",
+    "family": "Lactobacillaceae",
+    "transmission": "Fermented food",
+    "diseases": "None",
+    "solution": "Boosts immunity",
+    "harmful_percent": 5
+  },
+  "Bifidobacterium": {
+    "type": "Good",
+    "family": "Bifidobacteriaceae",
+    "transmission": "Gut flora",
+    "diseases": "None",
+    "solution": "Maintains intestinal health",
+    "harmful_percent": 5
+  },
+  "Bifidobacterium longum": {
+    "type": "Good",
+    "family": "Bifidobacteriaceae",
+    "transmission": "Gut flora",
+    "diseases": "None",
+    "solution": "Reduces inflammation",
+    "harmful_percent": 5
+  },
+  "Streptococcus thermophilus": {
+    "type": "Good",
+    "family": "Streptococcaceae",
+    "transmission": "Dairy fermentation",
+    "diseases": "None",
+    "solution": "Used in yogurt production",
+    "harmful_percent": 5
+  },
+  "Streptococcus salivarius": {
+    "type": "Good",
+    "family": "Streptococcaceae",
+    "transmission": "Oral microbiota",
+    "diseases": "None",
+    "solution": "Maintains oral health",
+    "harmful_percent": 5
+  },
+  "Leuconostoc": {
+    "type": "Good",
+    "family": "Leuconostocaceae",
+    "transmission": "Fermented food",
+    "diseases": "None",
+    "solution": "Food preservation",
+    "harmful_percent": 5
+  },
+  "Pediococcus": {
+    "type": "Good",
+    "family": "Lactobacillaceae",
+    "transmission": "Fermentation",
+    "diseases": "None",
+    "solution": "Probiotic applications",
+    "harmful_percent": 5
+  },
+  "Faecalibacterium prausnitzii": {
+    "type": "Good",
+    "family": "Ruminococcaceae",
+    "transmission": "Gut flora",
+    "diseases": "None",
+    "solution": "Anti-inflammatory effects",
+    "harmful_percent": 5
+  },
+  "Akkermansia muciniphila": {
+    "type": "Good",
+    "family": "Akkermansiaceae",
+    "transmission": "Gut flora",
+    "diseases": "None",
+    "solution": "Improves metabolic health",
+    "harmful_percent": 5
+  },
+  "Escherichia coli (pathogenic strains)": {
+    "type": "Harmful",
+    "family": "Enterobacteriaceae",
+    "transmission": "Food & water",
+    "diseases": "Diarrhea, UTI",
+    "solution": "Antibiotics, sanitation",
+    "harmful_percent": 85
+  },
+  "Salmonella typhi": {
+    "type": "Harmful",
+    "family": "Enterobacteriaceae",
+    "transmission": "Contaminated water",
+    "diseases": "Typhoid fever",
+    "solution": "Antibiotics, vaccination",
+    "harmful_percent": 90
+  },
+  "Salmonella enterica": {
+    "type": "Harmful",
+    "family": "Enterobacteriaceae",
+    "transmission": "Foodborne",
+    "diseases": "Salmonellosis",
+    "solution": "Antibiotics, hygiene",
+    "harmful_percent": 85
+  },
+  "Shigella dysenteriae": {
+    "type": "Harmful",
+    "family": "Enterobacteriaceae",
+    "transmission": "Fecal-oral",
+    "diseases": "Dysentery",
+    "solution": "Antibiotics, sanitation",
+    "harmful_percent": 90
+  },
+  "Vibrio cholerae": {
+    "type": "Harmful",
+    "family": "Vibrionaceae",
+    "transmission": "Contaminated water",
+    "diseases": "Cholera",
+    "solution": "Rehydration, antibiotics",
+    "harmful_percent": 95
+  },
+  "Staphylococcus aureus": {
+    "type": "Harmful",
+    "family": "Staphylococcaceae",
+    "transmission": "Skin contact",
+    "diseases": "Skin infections, sepsis",
+    "solution": "Antibiotics",
+    "harmful_percent": 80
+  },
+  "MRSA": {
+    "type": "Harmful",
+    "family": "Staphylococcaceae",
+    "transmission": "Hospital contact",
+    "diseases": "Drug-resistant infections",
+    "solution": "Targeted antibiotics",
+    "harmful_percent": 95
+  },
+  "Mycobacterium tuberculosis": {
+    "type": "Harmful",
+    "family": "Mycobacteriaceae",
+    "transmission": "Airborne",
+    "diseases": "Tuberculosis",
+    "solution": "Long-term antibiotics",
+    "harmful_percent": 95
+  },
+  "Clostridium botulinum": {
+    "type": "Harmful",
+    "family": "Clostridiaceae",
+    "transmission": "Improper food storage",
+    "diseases": "Botulism",
+    "solution": "Antitoxin treatment",
+    "harmful_percent": 98
+  },
+  "Listeria monocytogenes": {
+    "type": "Harmful",
+    "family": "Listeriaceae",
+    "transmission": "Contaminated food",
+    "diseases": "Listeriosis",
+    "solution": "Antibiotics, food safety",
+    "harmful_percent": 85
+  }
+}
