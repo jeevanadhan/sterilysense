@@ -34,7 +34,7 @@ If you have the trained checkpoint from the original project, copy it from:
 
 ## Run the examples
 
-### Run YOLOv8 webcam detection
+### Run YOLOv8 OBJECT detection
 
 ```bash
 python webcam_yolov8.py
